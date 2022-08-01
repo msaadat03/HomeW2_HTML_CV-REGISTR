@@ -1,0 +1,88 @@
+*{
+    color: rgb(54, 54, 57);
+}
+
+.Jonathan{
+    margin-left: 40px;
+}
+.Download{
+    float: right;   
+    margin-right: 90px;
+    margin-top: 10px;
+}
+.Profile {
+    float: left;
+    width: 20%;
+    font-style: italic;
+    margin-left: 40px;
+}
+.Progressively {
+    width: 70%;
+    
+    margin-left: 40px;
+}
+.Skills {
+    float: left;
+    width: 20%;
+    font-style: italic;
+    margin-left: 40px;
+}
+.Web-Design{
+    width: 20%;
+    
+    margin-left: 40px;
+}
+.Interface-Design{
+    width: 20%;
+    
+    margin-left: 40px;
+}
+.Project-Direction{
+    width: 20%;
+    
+    margin-left: 40px;
+}
+
+.Technical {
+    float: left;
+    width: 20%;
+    font-style: italic;
+    margin-left: 40px;
+}
+.xhtml{
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.jquery{
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.x{
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.Experience {
+    float: left;
+    width: 20%;
+    font-style: italic;
+    margin-left: 40px;
+}
+.Facebook{
+    width: 65%;
+    
+    margin-left: 40px;
+}
+.Empty{
+    
+    width: 20%;
+    font-style: italic;
+    margin-left: 40px;
+}
+.Apple{
+    width: 65%;
+    
+    margin-left: 40px;
+}

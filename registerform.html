@@ -1,0 +1,68 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/registerform.css">
+    <title>Simple Registration Form</title>
+</head>
+<body>
+    <form class="signupform" action="/register" method="post">
+
+    <div class="form-header">
+        <h2>Register</h2>
+        <p class="createacc">Create your account. It's free and only takes a minute.</p>
+    </div>
+
+
+
+    <div class="form-body">
+        <div class="horizontal-group">
+          
+            <div class="form-group left">
+              <label for="firstname" class="label-title"></label>
+              <input type="text" id="password" class="form-input" placeholder="First Name" required="required">
+            </div>
+          
+            <div class="form-group right">
+              <label for="lastname" class="label-title"></label>
+              <input type="text" class="form-input" id="" placeholder="Last Name" required="required">
+            </div>
+
+            </div>
+          
+
+        <div class="form-group left">
+            <label for="email" class="label-title"></label>
+            <input type="text" id="firstname" class="form-input" placeholder="Email" />
+        </div>
+
+        <div class="form-group right">
+            <label for="password" class="label-title"></label>
+            <input type="password" id="lastname" class="form-input" placeholder="Password" />
+        </div>
+
+        <div class="form-group">
+            <label for="confirmpassword" class="label-title"></label>
+            <input type="password" id="email" class="form-input" placeholder="Confirm Password" required="required">
+          </div>        
+          </div>
+    </div>
+    
+    <div class="form-group">
+        <input class="checkbox" type="checkbox" name="accepting"/>
+        <p class="accept">I accept the <a  class="href" href="">Terms of Use</a> & <a class="href" href="">Privacy Policy.</a><br><br>
+
+    </div>
+
+    <div class="form-footer">
+        <div class="form-footer">
+            <button type="submit" class="btn">Create</button>
+          </div>
+    </div>
+</form>
+
+<p class="sign-in">Already have an account?<a class="href1" href=""> Sign In</a></p>
+
+</body>
+</html>
